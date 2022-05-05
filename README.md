@@ -18,5 +18,7 @@
 ### The script can by modified as well. For example, instead of analzying county voter turnout as a percentage of the total votes, each county can be analyzed for voter turnout within the county. The code below can be ammended to calculate the percentage of the county from the county's total population as oppoed to the total votes.
 ![Screen Shot 2022-05-05 at 5 04 29 PM](https://user-images.githubusercontent.com/67160240/167025634-877be34d-f865-44e8-a855-0e72ced01dfa.png)
 Additionally, the script can be modified to drill down to voter specifics (race, gender, socioeconomic demographics) or look at the data at a more macro level such as state instead of county. In the code below, other types of data can be added if available.
+
 ![Screen Shot 2022-05-05 at 5 04 29 PM](https://user-images.githubusercontent.com/67160240/167025512-ce0ea311-d56e-4d7a-8350-f6fdeaacc8e0.png)
+
 ### The created script can be used for all types of elections from school board to a presedential election.
