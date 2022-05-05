@@ -2,6 +2,10 @@
 ## Overview of Election Audit:
 ### An election commission has requested an audit be completed of election results in 3 counties. The audit of the election included the following data: total votes, voter turnout for each county, percentage of votes from each county out of the total count the county with the highest turnout, each candidate's total votes and percentage of total votes, and the election winner. The audit was completed by utilizing Python to analyze the election data.
 ## Election-Audit Results
-### 
+###  
 - Total Votes:: 369,711
-- 
+- Votes Per County (Percentage of Total)
+  - Jefferson: 38,855 (10.5%)
+  - Denver: 306,055 (82.8%)
+  - Arapahoe: 24,801 (6.7%)
+
